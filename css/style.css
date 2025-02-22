@@ -13,6 +13,11 @@ body {
   background-image: linear-gradient(#F9FAFB 0%, #D2D6DB 100%);
 }
 
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
 * {
   box-sizing: border-box;
 }
